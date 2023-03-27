@@ -2,13 +2,13 @@
 
 Bits and pieces for dealing with video, such as presets for shrinking videos
 
-The pfohm30fps720mp3variable.json file shrinks a 1GB video file, such as from the press conferences at the Swedish Public Health Agency, by about a factor 0f 7 in initial tests.
+The pfohm30fps720mp3variable.json file shrinks a 1GB video file, such as from the press conferences at the Swedish Public Health Agency, by about a factor of 7 in initial tests. From 1GB to 132MB.
 
 It changes resolution to 720, uses H265 instead of H264 and changes to variable bit rate mp3 sound, from AAC.
 
 There are probably a lot more things you can do.
 
-Tidbit: Changing to variable bit rate mp3 with quality factor 2, shrunk the file in half compared to 320mbps MP3.
+Tidbit: Changing to a variable bit rate mp3 with quality factor 2, shrunk the file in half compared to 320mbps MP3.
 
 ## Usage
 
