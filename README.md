@@ -33,3 +33,5 @@ VideoQualitySlider 50 looks absolutely terrible (higher value is worse quality).
 Lowering the resolution to 576 made no difference in file size.
 
 Lowering the mp3 quality to "5" gave a 5% smaller video file.
+
+Withe preset JSON file, about 46% of teh file size is sound. You could probably then get down to 75% of total file size with some worse sound quality. However sound is the most important part of a press conference video.
