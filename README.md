@@ -32,6 +32,8 @@ HandBrakeCLI, which on Ubuntu Linux can be installed with:
 
 ## Notes
 
+### Video
+
 VideoQualitySlider 50 looks absolutely terrible (higher value is worse quality). 38% reduction in overall file size.
 
 40 looks not great, but possibly bearable.  33% reduction in overall file size.
@@ -42,6 +44,10 @@ VideoQualitySlider 50 looks absolutely terrible (higher value is worse quality).
 
 Lowering the resolution to 576 made no difference in file size.
 
+### Sound
+
 Lowering the mp3 quality to "5" gave a 5% smaller video file.
 
 With the preset JSON file, about 46% of the file size is sound. You could probably then get down to 75% of total file size with some worse sound quality. However sound is the most important part of a press conference video.
+
+Sound quality 7 semms to be the worst quality that is bearable, above that value people start lisping. 30KHz sample rate was ok.
