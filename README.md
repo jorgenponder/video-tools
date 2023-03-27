@@ -19,3 +19,13 @@ Tidbit: Changing to a variable bit rate mp3 with quality factor 2, shrunk the fi
 HandBrakeCLI, which on Ubuntu Linux can be installed with:
 
 ```sudo apt install handbrake-cli```
+
+## Notes
+
+VideoQualitySlider 50 looks absolutely terrible (higher value is worse quality). 38% reduction in overall file size.
+
+40 looks not great, but possibly bearable.  33% reduction in overall file size.
+
+35 looks fine-ish, 11% reduction in overall file size.
+
+32 looks great
