@@ -29,3 +29,7 @@ VideoQualitySlider 50 looks absolutely terrible (higher value is worse quality).
 35 looks fine-ish, 11% reduction in overall file size.
 
 32 looks great
+
+Lowering the resolution to 576 made no difference in file size.
+
+Lowering the mp3 quality to "5" gave a 5% smaller video file.
